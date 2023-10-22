@@ -75,9 +75,10 @@ ul li:hover{
 }
 .contact{
     background-color: #7321aa;
+    width:50vh;
 }
 .about{
-    
+    width:50vh;
     background-color: #23359b;
 }
 .contact,.about{
